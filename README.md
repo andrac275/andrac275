@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Andrac/ Andrew MP / @andrac275
+- 👋 Hi, I’m Andrac/ Andreu MP / @andrac275
 - 👀 I’m interested in a lot of things. :DDDDD
 - 🌱 I’m currently learning Java in the college.
 - 💞️ I’m looking to collaborate on open source applications. :)
-- 📫 How to reach me: (Best ways)
+- 📫 How to reach me: (Best ways) 
         mail: andrac275[a]gmail[dot]com
         telegram: @muzzlecito
 
