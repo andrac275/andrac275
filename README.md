@@ -1,9 +1,9 @@
-- 👋 Hi, I’m Andrac/ Andreu MP / @andrac275
+- 👋 Hi, I’m Andrac
 - 🌱 I’m currently learning different kind of languages, frameworks and technologies as Javascript, Typescript, NextJs, React, NestJs
 - 💞️ I’m looking to collaborate on open source applications specially if use the technologies listed above.. :)
-- 📫 How to reach me: (Best ways) 
+- 📫 How to reach me:
         mail: andrac275[a]gmail[dot]com
-        telegram: @muzzlecito
+  
 
 <!---
 andrac275/andrac275 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
